@@ -23,5 +23,5 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
     implementation 'androidx.appcompat:appcompat:1.0.2'
-    implementation project(':slideactionview')
+    implementation 'com.github.anishakd4:SlideActionViewLibrary:0.2.0'
 }

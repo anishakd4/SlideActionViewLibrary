@@ -4,7 +4,7 @@ ADDED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/And
 INJECTED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [:slideactionview] /Users/anishkumardubey/Desktop/demos/SlideActionView/slideactionview/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.anishakd4:SlideActionViewLibrary:0.2.0] /Users/anishkumardubey/.gradle/caches/transforms-3/7d5434fa43287cc1904e15fde1c2e9b1/transformed/jetified-SlideActionViewLibrary-0.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [me.jfenn:AndroidUtils:0.0.1] /Users/anishkumardubey/.gradle/caches/transforms-3/b2b80f77a75325cc9dc3029c1d069066/transformed/jetified-AndroidUtils-0.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/anishkumardubey/.gradle/caches/transforms-3/9d83b75fdee25b1a31cdb3be7e6612d9/transformed/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/anishkumardubey/.gradle/caches/transforms-3/1795ffcc8468819ffaba4ea0e00261d5/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -87,8 +87,8 @@ uses-sdk
 INJECTED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/AndroidManifest.xml
 INJECTED from /Users/anishkumardubey/Desktop/demos/SlideActionView/app/src/main/AndroidManifest.xml
-MERGED from [:slideactionview] /Users/anishkumardubey/Desktop/demos/SlideActionView/slideactionview/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:slideactionview] /Users/anishkumardubey/Desktop/demos/SlideActionView/slideactionview/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.anishakd4:SlideActionViewLibrary:0.2.0] /Users/anishkumardubey/.gradle/caches/transforms-3/7d5434fa43287cc1904e15fde1c2e9b1/transformed/jetified-SlideActionViewLibrary-0.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.anishakd4:SlideActionViewLibrary:0.2.0] /Users/anishkumardubey/.gradle/caches/transforms-3/7d5434fa43287cc1904e15fde1c2e9b1/transformed/jetified-SlideActionViewLibrary-0.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [me.jfenn:AndroidUtils:0.0.1] /Users/anishkumardubey/.gradle/caches/transforms-3/b2b80f77a75325cc9dc3029c1d069066/transformed/jetified-AndroidUtils-0.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [me.jfenn:AndroidUtils:0.0.1] /Users/anishkumardubey/.gradle/caches/transforms-3/b2b80f77a75325cc9dc3029c1d069066/transformed/jetified-AndroidUtils-0.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/anishkumardubey/.gradle/caches/transforms-3/9d83b75fdee25b1a31cdb3be7e6612d9/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
