@@ -5,8 +5,6 @@ android {
     defaultConfig {
         minSdkVersion project.minSdkVersion
         targetSdkVersion project.targetSdkVersion
-        versionCode project.versionCode
-        versionName project.versionName
     }
     buildTypes {
         release {

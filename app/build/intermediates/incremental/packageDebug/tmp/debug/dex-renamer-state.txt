@@ -1,4 +1,4 @@
-#Sat Feb 12 08:51:47 IST 2022
-base.0=/Users/anishkumardubey/Desktop/demos/SlideActionView/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Sat Feb 12 09:17:18 IST 2022
+base.0=/Users/anishkumardubey/Desktop/demos/SlideActionView/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
